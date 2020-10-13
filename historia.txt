@@ -1,10 +1,9 @@
 Esta es la historia de Freddy Vega
 
-<<<<<<< HEAD
+
 Anita Platzi es una persona que contribuye en este proyecto Open Source.  Ya casi  lo logro
-=======
-Anita Platzi es una persona que contribuye en este proyecto Open Source. 
->>>>>>> 83db3ed1629b33cd50737c02c9305cd7207f809c
+
+Master 2
 
 Anita Platzi tiene 45 años y nació en Internet 
 
